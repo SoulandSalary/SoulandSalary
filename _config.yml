@@ -1,0 +1,9 @@
+title: Soul and Salary
+description: A blog about finance, self-worth, and professional well-being.
+baseurl: "" 
+url: "https://www.soulandsalary.com"
+theme: minima
+markdown: kramdown
+
+author:
+  name: Dipin Verma
