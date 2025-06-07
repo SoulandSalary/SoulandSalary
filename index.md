@@ -3,7 +3,7 @@ layout: home
 title: Soul and Salary
 ---
 
-![Cover Image](https://source.unsplash.com/1600x400/?money,wellbeing,balance)
+![Cover Image](https://images.unsplash.com/photo-1542224566-0d62b1b320a7?auto=format&fit=crop&w=1600&q=80)
 
 # Soul and Salary
 ### Where Your Ambition Meets Inner Alignment
