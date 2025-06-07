@@ -1,13 +1,25 @@
 ---
 layout: home
-title: Welcome to Soul and Salary
+title: Soul and Salary
 ---
 
-Hi 👋 and welcome to **Soul and Salary** — where we explore the intersection of **money**, **mindset**, and **meaningful work**.
+![Cover Image](---
+layout: home
+title: Soul and Salary
+---
 
-🧠 Expect blogs on:
-- Financial confidence for professionals
-- Rewriting money beliefs
-- Emotional well-being at work
+![Cover Image](https://source.unsplash.com/1600x400/?money,wellbeing,balance)
 
-👇 Check out our latest posts below!
+# Soul and Salary
+### Where Your Ambition Meets Inner Alignment
+
+Welcome to a space for professionals who are striving not just for more income — but for more meaning.
+
+---)
+
+# Soul and Salary
+### Where Your Ambition Meets Inner Alignment
+
+Welcome to a space for professionals who are striving not just for more income — but for more meaning.
+
+---
