@@ -4,7 +4,7 @@ title: Soul and Salary
 ---
 
 <div style="width: 100%; margin-bottom: 2rem;">
-  <img src="/assets/images/cover.jpg" 
+  <img src="/assets/images/Cover.jpg" 
        alt="Soul and Salary Cover Image" 
        style="width: 100%; height: auto; border-radius: 8px;">
 </div>
