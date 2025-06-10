@@ -2,8 +2,13 @@ title: Soul and Salary
 description: A blog about finance, self-worth, and professional well-being.
 baseurl: "" 
 url: "https://www.soulandsalary.com"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 author:
   name:
